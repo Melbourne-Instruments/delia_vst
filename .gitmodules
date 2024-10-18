@@ -1,0 +1,3 @@
+[submodule "delia_common"]
+	path = delia_common
+	url = https://github.com/Melbourne-Instruments/delia_common.git

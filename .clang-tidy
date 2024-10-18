@@ -1,0 +1,11 @@
+Checks: >
+  -*,
+  bugprone-*,
+  misc-*,
+  modernize-*,
+  performance-*,
+  portability-*,
+  readability-*,
+
+  WarningsAsErrors: "*"
+
